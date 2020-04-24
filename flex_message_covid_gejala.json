@@ -1,0 +1,156 @@
+{
+    "type": "bubble",
+    "size": "mega",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "Gejala",
+                "weight": "bold",
+                "color": "#000000",
+                "size": "md"
+            },
+            {
+                "type": "text",
+                "text": "Gejala Covid-19 ini pada umumnya berupa:  ",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true
+            },
+            {
+                "type": "text",
+                "text": "✅ Demam 38°C",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true,
+                "offsetStart": "15px"
+            },
+            {
+                "type": "text",
+                "text": "✅ Batuk kering",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true,
+                "offsetStart": "15px"
+            },
+            {
+                "type": "text",
+                "text": "✅ Sesak nafas",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true,
+                "offsetStart": "15px"
+            },
+            {
+                "type": "text",
+                "text": "Nah, kalau kamu habis berpergian dan 14 hari kemudian mengalami gejala ini, segera ke Rumah Sakit rujukan untuk memeriksakan diri kamu lebih menyeluruh. Oh ya, saat ke Rumah Sakit, jangan menggunakan transportasi umum ya.",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true,
+                "offsetTop": "8px"
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "xxl",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "Bisa hubungi 119 untuk mendapatkan bantuan lebih lanjut.",
+                                "size": "sm",
+                                "color": "#000000",
+                                "wrap": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "#LawanBersamaCovid19",
+                                "weight": "bold",
+                                "color": "#000000",
+                                "offsetTop": "5px"
+                            },
+                            {
+                                "type": "text",
+                                "text": "#DiRumahAja",
+                                "weight": "bold",
+                                "color": "#000000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "#JagaJarak",
+                                "weight": "bold",
+                                "color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "message",
+                                    "label": "Menu",
+                                    "text": "Menu"
+                                },
+                                "style": "primary",
+                                "height": "sm",
+                                "offsetEnd": "2px"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "message",
+                                    "label": "Selesai",
+                                    "text": "Selesai"
+                                },
+                                "style": "secondary",
+                                "height": "sm",
+                                "offsetStart": "2px"
+                            }
+                        ],
+                        "margin": "xl"
+                    }
+                ]
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "md",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "created with ❤️ by Fadlan Sayyidul Anam",
+                        "color": "#aaaaaa",
+                        "size": "xs",
+                        "align": "start"
+                    }
+                ]
+            }
+        ]
+    },
+    "styles": {
+        "footer": {
+            "separator": true
+        }
+    }
+}

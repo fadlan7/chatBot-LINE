@@ -1,0 +1,112 @@
+{
+    "type": "bubble",
+    "size": "mega",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "Apa itu Coronavirus?",
+                "weight": "bold",
+                "color": "#000000",
+                "size": "md"
+            },
+            {
+                "type": "text",
+                "text": "Coronavirus adalah keluarga besar virus yang dapat menyebabkan penyakit pada hewan atau manusia. Pada manusia, beberapa coronavirus diketahui menyebabkan infeksi pernafasan mulai dari flu biasa hingga penyakit yang lebih parah seperti Sindrom Pernafasan Timur Tengah (MERS) dan Sindrom Pernafasan Akut Parah (SARS). Virus corona yang paling baru ditemukan menyebabkan penyakit coronavirus COVID-19.",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "xxl",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "Apa itu Covid-19?",
+                                "weight": "bold",
+                                "color": "#000000",
+                                "size": "md"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Covid-19 sendiri merupakan coronavirus jenis baru yang ditemukan pada manusia di daerah Wuhan, Provinsi Hubei, China pada tahun 2019.",
+                                "size": "sm",
+                                "color": "#000000",
+                                "wrap": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "message",
+                                    "label": "Menu",
+                                    "text": "Menu"
+                                },
+                                "style": "primary",
+                                "height": "sm",
+                                "offsetEnd": "2px"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "message",
+                                    "label": "Selesai",
+                                    "text": "Selesai"
+                                },
+                                "style": "secondary",
+                                "height": "sm",
+                                "offsetStart": "2px"
+                            }
+                        ],
+                        "margin": "xl"
+                    }
+                ]
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "md",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "created with ❤️ by Fadlan Sayyidul Anam",
+                        "color": "#aaaaaa",
+                        "size": "xs",
+                        "align": "start"
+                    }
+                ]
+            }
+        ]
+    },
+    "styles": {
+        "footer": {
+            "separator": true
+        }
+    }
+}

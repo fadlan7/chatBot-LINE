@@ -1,0 +1,369 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/273/273501.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Call Center Nasional",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "119",
+                            "uri": "tel://119"
+                        },
+                        "style": "primary",
+                        "height": "sm"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "021-5210411",
+                            "uri": "tel://62215210411"
+                        },
+                        "style": "secondary",
+                        "offsetTop": "5px",
+                        "height": "sm"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/273/273501.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Provinsi DKI Jakarta",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "0811 12112 112",
+                            "uri": "tel://6281112112112"
+                        },
+                        "offsetTop": "26px",
+                        "style": "primary",
+                        "height": "sm"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/273/273501.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Provinsi Banten",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "0852 15779 659",
+                            "uri": "tel://6285215779659"
+                        },
+                        "offsetTop": "26px",
+                        "style": "primary",
+                        "height": "sm"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/273/273501.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Provinsi Jawa Barat",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "0811 2093 306",
+                            "uri": "tel://628112093306"
+                        },
+                        "offsetTop": "26px",
+                        "style": "primary",
+                        "height": "sm"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/273/273501.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Provinsi Jawa Tengah",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "024 3580713",
+                            "uri": "tel://62243580713"
+                        },
+                        "offsetTop": "26px",
+                        "style": "primary",
+                        "height": "sm"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/273/273501.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Provinsi Yogyakarta",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "0274 555585",
+                            "uri": "tel://62274555585"
+                        },
+                        "offsetTop": "26px",
+                        "style": "primary",
+                        "height": "sm"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/273/273501.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Provinsi Jawa Timur",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "031 8430313",
+                            "uri": "tel://62318430313"
+                        },
+                        "offsetTop": "26px",
+                        "style": "primary",
+                        "height": "sm"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Menu",
+                            "text": "Menu"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Selesai",
+                            "text": "Selesai"
+                        },
+                        "style": "secondary",
+                        "offsetTop": "10px"
+                    }
+                ],
+                "paddingTop": "110px"
+            }
+        }
+    ]
+}

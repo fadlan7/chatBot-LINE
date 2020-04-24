@@ -1,0 +1,458 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/1162/1162914.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Kabar Covid-19 Global",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Covid-19 Global",
+                            "text": "Covid-19 Global"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/1162/1162914.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Kabar Covid-19",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Indonesia",
+                        "size": "xl",
+                        "weight": "bold",
+                        "align": "center"
+                    }
+                ],
+                "paddingBottom": "0px"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Covid-19 Indonesia",
+                            "text": "Covid-19 Indonesia"
+                        },
+                        "style": "primary",
+                        "height": "md"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/2476/2476231.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Apa itu Covid-19",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Covid-19?",
+                            "text": "Covid-19?"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/2666/2666505.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Gejala Covid-19",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Gejala",
+                            "text": "Gejala"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/2806/2806653.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Cara melindungi diri",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Melindungi diri dari Covid-19",
+                            "text": "Melindungi diri dari Covid-19"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10",
+                "url": "https://image.flaticon.com/icons/png/512/2803/2803005.png"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Daftar Rumah Sakit",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Rujukan",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ],
+                "paddingBottom": "0px"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "Lihat",
+                            "uri": "https://www.covid19.go.id/2020/03/23/daftar-rumah-sakit-rujukan-covid-19/"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/2810/2810989.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Call Center Covid-19",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Call Center",
+                            "text": "Call Center Covid-19"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xs"
+                    }
+                ]
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://image.flaticon.com/icons/png/512/2728/2728799.png",
+                "size": "full",
+                "aspectMode": "fit",
+                "aspectRatio": "20:10"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Game sederhana",
+                        "weight": "bold",
+                        "size": "xl",
+                        "align": "center"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "Mulai",
+                            "uri": "http://line.me/ti/p/~@133jxkbf"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "spacer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "kilo",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Selesai",
+                            "text": "Selesai"
+                        },
+                        "style": "secondary"
+                    }
+                ],
+                "paddingTop": "120px"
+            }
+        }
+    ]
+}

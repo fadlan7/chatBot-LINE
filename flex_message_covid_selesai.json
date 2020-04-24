@@ -1,0 +1,100 @@
+{
+    "type": "bubble",
+    "size": "mega",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true,
+                "text": "Terima kasih sudah mampir 😊,  jaga kesehatan selalu. "
+            },
+            {
+                "type": "text",
+                "text": "Jangan lupa rajin cuci tangan dengan sabun, makan-makanan yang sehat dan teratur,  serta menggunakan masker bila kamu sedang merasa tidak enak badan. ",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true,
+                "weight": "bold"
+            },
+            {
+                "type": "text",
+                "text": "Jangan lupa juga untuk jaga jarak aman lebih dari 1 meter. Ayo kita cegah penyebaran Covid-19 lebih luas. ",
+                "size": "sm",
+                "color": "#000000",
+                "wrap": true,
+                "offsetTop": "10px"
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "xxl",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "Bisa hubungi 119 atau kunjungi www.covid19.go.id untuk mendapatkan bantuan lebih lanjut.",
+                                "size": "sm",
+                                "color": "#000000",
+                                "wrap": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "#LawanBersamaCovid19",
+                                "weight": "bold",
+                                "color": "#000000",
+                                "offsetTop": "5px"
+                            },
+                            {
+                                "type": "text",
+                                "text": "#DiRumahAja",
+                                "weight": "bold",
+                                "color": "#000000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "#JagaJarak",
+                                "weight": "bold",
+                                "color": "#000000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "md",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "created with ❤️ by Fadlan Sayyidul Anam",
+                        "color": "#aaaaaa",
+                        "size": "xs",
+                        "align": "start"
+                    }
+                ]
+            }
+        ]
+    },
+    "styles": {
+        "footer": {
+            "separator": true
+        }
+    }
+}

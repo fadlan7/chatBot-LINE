@@ -1,0 +1,287 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "size": "micro",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://image.flaticon.com/icons/png/512/814/814513.png"
+                    }
+                ],
+                "backgroundColor": "#76A3CC",
+                "height": "158px",
+                "paddingTop": "30px"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Update terakhir:"
+                    },
+                    {
+                        "type": "text",
+                        "text": "24 April 2020"
+                    }
+                ]
+            },
+            "styles": {
+                "footer": {
+                    "separator": false
+                }
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "micro",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://image.flaticon.com/icons/png/512/1534/1534473.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Positif",
+                        "color": "#ffffff",
+                        "align": "start",
+                        "size": "md",
+                        "gravity": "center"
+                    }
+                ],
+                "backgroundColor": "#F82649",
+                "paddingTop": "19px",
+                "paddingAll": "12px",
+                "paddingBottom": "16px"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "color": "#000000",
+                                "size": "lg",
+                                "wrap": true,
+                                "text": "2.721.354",
+                                "weight": "bold",
+                                "align": "start"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Orang"
+                            }
+                        ],
+                        "flex": 1
+                    }
+                ],
+                "spacing": "md",
+                "paddingAll": "12px"
+            },
+            "styles": {
+                "footer": {
+                    "separator": false
+                }
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "micro",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://image.flaticon.com/icons/png/512/1356/1356523.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Sembuh",
+                        "color": "#ffffff",
+                        "align": "start",
+                        "size": "md",
+                        "gravity": "center"
+                    }
+                ],
+                "backgroundColor": "#27ACB2",
+                "paddingTop": "19px",
+                "paddingAll": "12px",
+                "paddingBottom": "16px"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "color": "#000000",
+                                "size": "lg",
+                                "wrap": true,
+                                "text": "745.605",
+                                "weight": "bold",
+                                "align": "start"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Orang"
+                            }
+                        ],
+                        "flex": 1
+                    }
+                ],
+                "spacing": "md",
+                "paddingAll": "12px"
+            },
+            "styles": {
+                "footer": {
+                    "separator": false
+                }
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "micro",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://image.flaticon.com/icons/png/512/1534/1534452.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Meninggal",
+                        "color": "#ffffff",
+                        "align": "start",
+                        "size": "md",
+                        "gravity": "center"
+                    }
+                ],
+                "backgroundColor": "#D43F8D",
+                "paddingTop": "19px",
+                "paddingAll": "12px",
+                "paddingBottom": "16px"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "color": "#000000",
+                                "size": "lg",
+                                "wrap": true,
+                                "text": "191.231",
+                                "weight": "bold",
+                                "align": "start"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Orang"
+                            }
+                        ],
+                        "flex": 1
+                    }
+                ],
+                "spacing": "md",
+                "paddingAll": "12px"
+            },
+            "styles": {
+                "footer": {
+                    "separator": false
+                }
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "micro",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "Selengkapnya",
+                            "uri": "https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61"
+                        },
+                        "style": "primary",
+                        "offsetTop": "50%",
+                        "color": "#588da8"
+                    }
+                ],
+                "backgroundColor": "#F2F3F9"
+            },
+            "action": {
+                "type": "uri",
+                "label": "Selengkapnya",
+                "uri": "https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61"
+            },
+            "styles": {
+                "footer": {
+                    "separator": false
+                }
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "micro",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Menu",
+                            "text": "Menu"
+                        },
+                        "style": "primary"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "Selesai",
+                            "text": "Selesai"
+                        },
+                        "style": "secondary",
+                        "offsetTop": "10px"
+                    }
+                ],
+                "backgroundColor": "#F2F3F9",
+                "height": "240px",
+                "paddingTop": "60px"
+            },
+            "styles": {
+                "footer": {
+                    "separator": false
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "type": "bubble",
+    "size": "mega",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Cara melindungi diri dari Covid-19",
+                        "weight": "bold",
+                        "color": "#000000",
+                        "size": "md"
+                    },
+                    {
+                        "type": "text",
+                        "text": "🚰 Cuci tangan anda sesering mungkin",
+                        "size": "sm",
+                        "color": "#000000",
+                        "wrap": true,
+                        "offsetStart": "15px"
+                    },
+                    {
+                        "type": "text",
+                        "text": "👄 Hindari menyentuh mata, mulut, dan hidung Anda",
+                        "size": "sm",
+                        "color": "#000000",
+                        "wrap": true,
+                        "offsetStart": "15px",
+                        "offsetTop": "10px"
+                    },
+                    {
+                        "type": "text",
+                        "text": "💪 Ketika batuk atau bersin, tutup mulut dan hidung dengan siku terlipat atau tisu. Buang langsung tisu ke tempat sampah setelah digunakan",
+                        "size": "sm",
+                        "color": "#000000",
+                        "wrap": true,
+                        "offsetStart": "15px",
+                        "offsetTop": "15px"
+                    },
+                    {
+                        "type": "text",
+                        "text": "🚷 Hindari tempat yang ramai",
+                        "size": "sm",
+                        "color": "#000000",
+                        "wrap": true,
+                        "offsetStart": "15px",
+                        "offsetTop": "20px"
+                    },
+                    {
+                        "type": "text",
+                        "text": "🏡 Tetap di rumah jika Anda merasa tidak sehat - bahkan dengan sedikit demam dan batuk",
+                        "size": "sm",
+                        "color": "#000000",
+                        "wrap": true,
+                        "offsetStart": "15px",
+                        "offsetTop": "25px"
+                    },
+                    {
+                        "type": "text",
+                        "text": "🤒 Beritahu petugas kesehatan jika kamu mengalami gejala, pernah kontak erat dengan orang bergejala atau bepergian ke wilayah terjangkit COVID-19",
+                        "size": "sm",
+                        "color": "#000000",
+                        "wrap": true,
+                        "offsetStart": "15px",
+                        "offsetTop": "30px"
+                    }
+                ],
+                "height": "350px"
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "xxl",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "Bisa hubungi 119 untuk mendapatkan bantuan lebih lanjut.",
+                                "size": "sm",
+                                "color": "#000000",
+                                "wrap": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "#LawanBersamaCovid19",
+                                "weight": "bold",
+                                "color": "#000000",
+                                "offsetTop": "5px"
+                            },
+                            {
+                                "type": "text",
+                                "text": "#DiRumahAja",
+                                "weight": "bold",
+                                "color": "#000000",
+                                "margin": "xs"
+                            },
+                            {
+                                "type": "text",
+                                "text": "#JagaJarak",
+                                "weight": "bold",
+                                "color": "#000000",
+                                "margin": "none"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "message",
+                                    "label": "Menu",
+                                    "text": "Menu"
+                                },
+                                "style": "primary",
+                                "height": "sm",
+                                "offsetEnd": "2px"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "message",
+                                    "label": "Selesai",
+                                    "text": "Selesai"
+                                },
+                                "style": "secondary",
+                                "height": "sm",
+                                "offsetStart": "2px"
+                            }
+                        ],
+                        "margin": "xl"
+                    }
+                ]
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "md",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "created with ❤️ by Fadlan Sayyidul Anam",
+                        "color": "#aaaaaa",
+                        "size": "xs",
+                        "align": "start"
+                    }
+                ]
+            }
+        ]
+    },
+    "styles": {
+        "footer": {
+            "separator": true
+        }
+    }
+}
